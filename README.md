@@ -9,21 +9,6 @@ Welcome to my 📚 personal repository where I store all my college files, assig
 - **Major:** Computer Science Engineering 🖥️
 - **Year of Graduation:** 2026 🎓
 
-## 📂 Repository Structure
-
-/BTech-Repository
-|-- /Year-1
-| |-- /Semester-1
-| | |-- /Course-1
-| | | |-- /Assignments
-| | | |-- /Notes
-| | |-- /Course-2
-| | |-- ...
-| |-- /Semester-2
-| |-- ...
-|-- /Year-2
-|-- ...
-
 
 Each academic year is organized into separate folders, which are further divided by semesters and courses. Inside each course folder, you'll find relevant assignments, projects, and notes.
 
