@@ -21,6 +21,7 @@ Repository Structure
 |-- /Year-2
 |-- ...
 
+
 Each academic year is organized into separate folders, which are further divided by semesters and courses. Inside each course folder, you'll find relevant assignments, projects, and notes.
 
 Courses
